@@ -6,8 +6,8 @@ image: /images/acl-spc.png
 categories: research
 author: "Sangmin Hong"
 authors: "<strong>Sangmin Hong*</strong>, Mohsen Yavartanoo*, Reyhaneh Neshatavar, Kyoung Mu Lee"
-venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023"
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
 arxiv: https://arxiv.org/abs/2303.01979
 code: https://github.com/Sangminhong/ACL-SPC_PyTorch
 ---
-ACLSPC takes a single partial input and attempts to output the complete point cloud using an adaptive closed-loop (ACL) system that enforces the output same for the variation of an input. 
+ACL-SPC takes a single partial input and attempts to output the complete point cloud using an adaptive closed-loop (ACL) system that enforces the output same for the variation of an input. 
