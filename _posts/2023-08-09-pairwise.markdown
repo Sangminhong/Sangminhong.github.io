@@ -2,13 +2,12 @@
 layout: post
 title:  "ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion"
 date:   2023-06-21 
-image: /images/pairwise.png
+image: /images/acl-spc.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Katherine Shih, Martial Hebert, Aaron Steinfeld"
-venue: "International Conference on Intelligent Robots and Systems"
-arxiv: https://arxiv.org/abs/2308.04571
-code: https://github.com/leonidk/pairwise
-website: https://leonidk.github.io/pairwise
+author: "Sangmin Hong"
+authors: "<strong>Sangmin Hong*</strong>, Mohsen Yavartanoo*, Reyhaneh Neshatavar, Kyoung Mu Lee"
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023"
+arxiv: https://arxiv.org/abs/2303.01979
+code: https://github.com/Sangminhong/ACL-SPC_PyTorch
 ---
-We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
+ACLSPC takes a single partial input and attempts to output the complete point cloud using an adaptive closed-loop (ACL) system that enforces the output same for the variation of an input. 
