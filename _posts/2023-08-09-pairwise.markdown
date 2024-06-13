@@ -2,7 +2,7 @@
 layout: post
 title:  "ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion"
 date:   2023-06-21 
-image: /images/acl-spc.png
+image: /images/acl_spc.png
 categories: research
 author: "Sangmin Hong"
 authors: "<strong>Sangmin Hong*</strong>, Mohsen Yavartanoo*, Reyhaneh Neshatavar, Kyoung Mu Lee"
