@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Discovering Multiple Algorithm Configurations"
-date:   2023-03-14 22:21:59 +00:00
+title:  "CNC-Net: Self-Supervised Learning for CNC Machining Operations"
+date:   2024-06-20
 image: /images/CNC-path.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "International Conference on Robotics and Automation"
-arxiv: https://arxiv.org/abs/2303.07434
-code: https://github.com/leonidk/modecfg
-website: https://leonidk.github.io/modecfg
-youtube: https://www.youtube.com/watch?v=r2426BR4r8o
+author: "Sangmin Hong"
+authors: "Mohsen Yavartanoo*, <strong>Sangmin Hong*</strong>, Reyhaneh Neshatavar*, Kyoung Mu Lee"
+venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+arxiv: https://arxiv.org/abs/2312.09925
+code: https://github.com/myavartanoo/CNC-Net_PyTorch
+youtube: https://www.youtube.com/watch?v=0wg5aV-q7XU&t=206s
 ---
-We show the benefits of discovering an ensemble of configurations for a given algorithm during the course of optimization. Results on stereo, planning and visual odometry. 
+We introduce a pioneering approach named CNC-Net, representing the use of deep neural networks (DNNs) to simulate CNC machines and grasp intricate operations when supplied with raw materials
