@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Fuzzy Metaballs: Approximate Differentiable Rendering with Algebraic Surfaces"
+title:  "CNC-Net: Self-Supervised Learning for CNC Machining Operations"
 date:   2022-07-21 22:21:59 +00:00
-image: /images/fuzzy22.png
+image: /images/CNC-path.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+author: "Sangmin Hong"
+authors: "Mohsen Yavartanoo, <strong>Sangmin Hong</strong>, Reyhaneh Neshatvar, Kyoung Mu Lee"
 venue: "European Conference on Computer Vision (Oral)"
 arxiv: https://arxiv.org/abs/2207.10606
 code: https://github.com/leonidk/fuzzy-metaballs
