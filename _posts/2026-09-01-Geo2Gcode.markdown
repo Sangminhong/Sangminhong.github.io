@@ -2,7 +2,7 @@
 layout: post
 title:  "Geo2Gcode: Bridging 3D Geometry and Machining via Direct Manufacturing Toolpath Generation"
 date:   2026-09-01
-image: /images/geo2gcode.png
+image: /images/geo2gcode.jpg
 categories: research
 author: "Sangmin Hong"
 authors: "<strong>Sangmin Hong*</strong>, Dohee Cho, Mohsen Yavartanoo, Kyoung Mu Lee"
