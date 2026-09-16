@@ -80,7 +80,7 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <em>{{post.venue}}</em>{% unless post.hide_year %}, {{ post.date | date: "%Y" }}{% endunless %}
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
@@ -110,6 +110,57 @@
           {% endif %}
           {% endfor %}
           {% endfor %}
+        </table>
+        <br>
+        <br>
+        <br>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Awards &amp; Scholarships</h2>
+              <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;">
+                <tr>
+                  <td style="padding:0.6em 1em 0.6em 0;width:15%;vertical-align:top;white-space:nowrap"><em>2026</em></td>
+                  <td style="padding:0.6em 0;width:60%;vertical-align:top">
+                    <strong>1st Place</strong>, Zero-shot Accident Anticipation Competition,
+                    AUTOPILOT Workshop, CVPR 2026
+                    <br>
+                    <span style="font-size:small">SNU CVLab Team &mdash; Sangmin Hong, Kyoung Mu Lee</span>
+                  </td>
+                  <td style="padding:0.6em 0 0.6em 1em;width:25%;vertical-align:top">
+                    <a href="/images/cvpr2026_certificate.jpg">
+                      <img src="/tn/images/cvpr2026_certificate.jpg" alt="CVPR 2026 challenge certificate"
+                           style="width:100%;max-width:160px;border:1px solid #ddd" />
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0.6em 1em 0.6em 0;vertical-align:top;white-space:nowrap"><em>2026</em></td>
+                  <td colspan="2" style="padding:0.6em 0;vertical-align:top">
+                    <strong>Outstanding Paper Award (Bronze Prize)</strong>, 38th Workshop on Image Processing and Image Understanding (IPIU)
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0.6em 1em 0.6em 0;vertical-align:top;white-space:nowrap"><em>2026</em></td>
+                  <td colspan="2" style="padding:0.6em 0;vertical-align:top">
+                    <strong>Finalist</strong>, KRAFTON AI R&amp;D Hackathon
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0.6em 1em 0.6em 0;vertical-align:top;white-space:nowrap"><em>2024</em></td>
+                  <td colspan="2" style="padding:0.6em 0;vertical-align:top">
+                    <strong>IPAI Scholarship</strong>, Seoul National University
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:0.6em 1em 0.6em 0;vertical-align:top;white-space:nowrap"><em>2021&ndash;2023</em></td>
+                  <td colspan="2" style="padding:0.6em 0;vertical-align:top">
+                    <strong>AI Graduate School Program Fellowship</strong>, IITP, Government of Korea
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
         </table>
         <br>
         <br>

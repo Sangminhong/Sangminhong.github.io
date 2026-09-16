@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Geo2Gcode: Bridging 3D Geometry and Machining via Direct Manufacturing Toolpath Generation"
+date:   2026-09-01
+image: /images/geo2gcode.png
+categories: research
+author: "Sangmin Hong"
+authors: "<strong>Sangmin Hong*</strong>, Dohee Cho, Mohsen Yavartanoo, Kyoung Mu Lee"
+venue: "Under review"
+hide_year: true
+---
+Geo2Gcode generates manufacturing toolpaths directly from 3D geometry, closing the gap between a geometric model and the machine instructions that produce it.
