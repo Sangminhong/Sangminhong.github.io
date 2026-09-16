@@ -2,7 +2,7 @@
 layout: post
 title:  "Test-Time Part Generation and Assembly Optimization with Hierarchical Guidance from Large Language Models"
 date:   2026-08-15
-image: /images/assemblyllm.png
+image: /images/assemblyllm.jpg
 categories: research
 author: "Sangmin Hong"
 authors: "Dohee Cho*, <strong>Sangmin Hong*</strong>, Kyoung Mu Lee"
