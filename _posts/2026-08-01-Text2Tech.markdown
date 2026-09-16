@@ -2,7 +2,7 @@
 layout: post
 title:  "Text2Tech: Text to 3D CAD Generation via Technical Drawings"
 date:   2026-08-01
-image: /images/text2tech.png
+image: /images/text2tech.jpg
 categories: research
 author: "Sangmin Hong"
 authors: "Mohsen Yavartanoo*, <strong>Sangmin Hong*</strong>, Reyhaneh Neshatavar*, Kyoung Mu Lee"

@@ -2,7 +2,7 @@
 layout: post
 title:  "PrintAnything: Learning Geometric Plan Map for 3D Printing G-code Generation from Unoriented Point Clouds"
 date:   2026-07-30
-image: /images/printanything.png
+image: /images/printanything.jpg
 categories: research
 author: "Sangmin Hong"
 authors: "<strong>Sangmin Hong</strong>, Daniel Sungho Jung, Heewon Kim, Kyoung Mu Lee"

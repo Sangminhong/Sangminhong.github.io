@@ -2,7 +2,7 @@
 layout: post
 title:  "StarryGazer: Leveraging Monocular Depth Estimation Models for Domain-Agnostic Single Depth Image Completion"
 date:   2026-01-01
-image: /images/starrygazer.png
+image: /images/starrygazer.jpg
 categories: research
 author: "Sangmin Hong"
 authors: "<strong>Sangmin Hong*</strong>, Suyoung Lee*, Kyoung Mu Lee"
